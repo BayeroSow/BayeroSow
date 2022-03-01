@@ -10,7 +10,7 @@ I'm Amadou Sow a Backend Web Developer. As someone who is more passionate for le
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with AWS.
 - 📫 How to reach me: sowa5925@gmail.com.
-- 😄 Pronouns: CoderOne, Bayero, ByeroSow.
+- 😄 Pronouns: CoderOne, Bayero, Amadou.
 - ⚡ Fun fact: I play football and go to the GYM very often.
 
 #### 1.0.1. Top Technologies
