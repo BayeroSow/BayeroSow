@@ -99,7 +99,7 @@ CSS          2 mins
 
 #### 1.1.5. Github Stats
 
-![Amadou github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Amadou GitHub stats](https://github-readme-stats.vercel.app/api?username=amadou&show_icons=true&theme=radical)
 
 </details>
 
@@ -108,3 +108,4 @@ CSS          2 mins
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
 [htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
 [javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+
