@@ -6,14 +6,6 @@ I'm Amadou Sow a Backend Web Developer. As someone who is more passionate for le
 
 [![Twitter Badge](https://img.shields.io/badge/-@Amadou-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/@Amadous95787957) [![Linkedin Badge](https://img.shields.io/badge/-Amadou-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadou-sow-b748aa18a/) [![Mail Badge](https://img.shields.io/badge/-@Amadou-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sowa5925) [![Mail Badge](https://img.shields.io/badge/-Amadou-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sowa5925@gmail.com)
 
-<!-- TODO: Add last video link -->- [1. Hi I'm Amdou <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">](#1-hi-im-islem-)
-    - [1.0.1. Top Technologies](#101-top-technologies)
-  - [1.1. Projects](#11-tutorials)
-    - [1.1.1. Faceme](#111-bizness)
-    - [1.1.2. Googleclone](#112-profile-visits)
-    - [1.1.3. Voice Recognition](#113-what-is-coderone)
-    - [1.1.4. Discord](#114-coding-stats)
-
 - 🔭 I’m currently working on Faceme a facial recognition app
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with AWS.
