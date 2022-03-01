@@ -83,21 +83,8 @@ Git, GitHub, VsCode, HTML5, CSS3, JavaScript, MySQL, Object-Oriented Programming
 #### 1.1.4. Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-Python       15 hrs 41 mins  
-████████████████████▓░░░░   82.29 % 
-Javascript   1 hr 50 mins    
-██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-PHP          1 hr 27 mins    
-██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        30 mins         
-░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-CSS          2 mins          
-░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-    
-    
-    
- From: 12 February, 2022 - To: 1 March, 2022
+```text   
+From: 12 February, 2022 - To: 1 March, 2022
 
 Pyton        ████████████████████▒░░░░░░░░░░░░░░░░░░░░   49.98 %
 Javascript   ████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   11.07 %
