@@ -78,7 +78,7 @@ Programmer specialized in web development using muiltiple tools, frameworks, lib
 
 #### 1.1.3. What is CoderOne?
 
-Knowledge of: Git, GitHub, VsCode, HTML5; Css3, Javaript, MYSQL, Object-Oriented Programmingm, data structures and algrithms
+💬 Knowledge of: Git, GitHub, VsCode, HTML5, CSS3, Javaript, MYSQL, Object-Oriented Programming, data structures and algorithms
 
 #### 1.1.4. Coding Stats
 
