@@ -78,7 +78,8 @@ Programmer specialized in web development using muiltiple tools, frameworks, lib
 
 #### 1.1.3. What is CoderOne?
 
-💬 Knowledge of: Git, GitHub, VsCode, HTML5, CSS3, Javaript, MYSQL, Object-Oriented Programming, data structures and algorithms
+#### 💬 Knowledge of: 
+Git, GitHub, VsCode, HTML5, CSS3, JavaScript, MySQL, Object-Oriented Programming, data structures and algorithms
 
 #### 1.1.4. Coding Stats
 
@@ -86,7 +87,7 @@ Programmer specialized in web development using muiltiple tools, frameworks, lib
 ```text
 Python       15 hrs 41 mins  
 ████████████████████▓░░░░   82.29 % 
-Javascript   1 hr 50 mins    
+Javascript   1 hr 50 mins 
 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 PHP          1 hr 27 mins    
 ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
@@ -95,6 +96,7 @@ Other        30 mins
 CSS          2 mins          
 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
+
 <!--END_SECTION:waka-->
 
 #### 1.1.5. Github Stats
@@ -108,4 +110,3 @@ CSS          2 mins
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
 [htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
 [javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
-
