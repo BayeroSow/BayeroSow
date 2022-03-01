@@ -13,14 +13,14 @@ I'm Amadou Sow a Backend Web Developer. As someone who is more passionate for le
 - 😄 Pronouns: CoderOne, Bayero, Amadou.
 - ⚡ Fun fact: I play football and go to the GYM very often.
 
-#### 1.0.1. Top Technologies
+#### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![React Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![PHP Badge](https://img.shields.io/badge/-php-007acc?style=for-the-badge&labelColor=black&logo=php&logoColor=007acc)](#) [![HTML Badge](https://img.shields.io/badge/-html-3C873A?style=for-the-badge&labelColor=black&logo=html5&logoColor=3C873A)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-e535ab?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=e535ab)](#)
 
 
-### 1.1. Languages & Tools
+### Languages & Tools
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 
@@ -50,7 +50,7 @@ I'm Amadou Sow a Backend Web Developer. As someone who is more passionate for le
 <br />
 <br />
 
-#### 1.1.1. Bizness
+#### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: sowa595@gmail.com
 
@@ -63,11 +63,11 @@ I'm Amadou Sow a Backend Web Developer. As someone who is more passionate for le
 
 Programmer specialized in web development using muiltiple tools, frameworks, libraries  in backend. I pay a lot of attention to detail to genereate best products
 
-#### 1.1.3. Knowledge of:
+#### Knowledge of:
 
 Git, GitHub, VsCode, HTML5, CSS3, JavaScript, MySQL, Object-Oriented Programming, data structures and algorithms 
 
-#### 1.1.4. Coding Stats
+#### Coding Stats
 
 <!--START_SECTION:waka-->
 ```text   
@@ -82,7 +82,7 @@ Other        ██▒░░░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-#### 1.1.5. Github Stats
+#### Github Stats
 
 ![Amadou GitHub stats](https://github-readme-stats.vercel.app/api?username=amadou&show_icons=true&theme=radical)
 
