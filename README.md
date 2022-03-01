@@ -62,11 +62,6 @@ I'm Amadou Sow a Backend Web Developer. As someone who is more passionate for le
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: sowa595@gmail.com
 
-
-#### 1.1.2. Profile Visits 
-
-![visitors](https://github.com/BayeroSow)
-
 <details>
 <summary>
   More stuff about me
