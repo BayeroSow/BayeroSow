@@ -76,10 +76,9 @@ I'm Amadou Sow a Backend Web Developer. As someone who is more passionate for le
 
 Programmer specialized in web development using muiltiple tools, frameworks, libraries  in backend. I pay a lot of attention to detail to genereate best products
 
-#### 1.1.3. What is CoderOne?
+#### 1.1.3. Knowledge:
 
-#### 💬 Knowledge of: 
-Git, GitHub, VsCode, HTML5, CSS3, JavaScript, MySQL, Object-Oriented Programming, data structures and algorithms
+Git, GitHub, VsCode, HTML5, CSS3, JavaScript, MySQL, Object-Oriented Programming, data structures and algorithms 
 
 #### 1.1.4. Coding Stats
 
@@ -87,11 +86,11 @@ Git, GitHub, VsCode, HTML5, CSS3, JavaScript, MySQL, Object-Oriented Programming
 ```text
 Python       15 hrs 41 mins  
 ████████████████████▓░░░░   82.29 % 
-Javascript   1 hr 50 mins 
+Javascript   1 hr 50 mins    
 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 PHP          1 hr 27 mins    
 ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        30 mins          
+Other        30 mins         
 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 CSS          2 mins          
 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
