@@ -76,7 +76,7 @@ I'm Amadou Sow a Backend Web Developer. As someone who is more passionate for le
 
 Programmer specialized in web development using muiltiple tools, frameworks, libraries  in backend. I pay a lot of attention to detail to genereate best products
 
-#### 1.1.3. Knowledge:
+#### 1.1.3. Knowledge of:
 
 Git, GitHub, VsCode, HTML5, CSS3, JavaScript, MySQL, Object-Oriented Programming, data structures and algorithms 
 
