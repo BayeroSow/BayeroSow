@@ -56,7 +56,7 @@ I'm Amadou Sow a Backend Web Developer. As someone who is more passionate for le
 
 ### Profile Visits
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Amadou.visitor-badge)
 
 <details>
 <summary>
