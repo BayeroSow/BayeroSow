@@ -51,7 +51,7 @@ I'm Amadou Sow a Backend Web Developer. As someone who is more passionate for le
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/Amadou/Amadou/blob/master/resumes/CV%20Amadou%20Sow%20%231-2.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Amadou/Amadou/blob/master/resumes/file:///Users/amadousow/Dropbox/My%20Mac%20(Amadous-MacBook-Air.local)/Downloads/CV%20Amadou%20Sow%20%231-2.pdf)
 - :email: sowa595@gmail.com
 
 ### Profile Visits
