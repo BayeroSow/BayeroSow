@@ -18,7 +18,7 @@ I'm Amadou Sow a Full Stack Developer. As someone who is more passionate for lea
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![HTML Badge](https://img.shields.io/badge/-html-3C873A?style=for-the-badge&labelColor=black&logo=html5&logoColor=3C873A)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-e535ab?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=e535ab)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![PHP Badge](https://img.shields.io/badge/-php-007acc?style=for-the-badge&labelColor=black&logo=php&logoColor=007acc)](#) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![PHP Badge](https://img.shields.io/badge/-php-007acc?style=for-the-badge&labelColor=black&logo=php&logoColor=007acc)](#) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=3C873A) (#)
 
 
 
