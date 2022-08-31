@@ -79,13 +79,13 @@ CSS          ██▓░░░░░░░░░░░░░░░░░░░�
 Other        ██▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 ```
 
-<!--END_SECTION:waka-->
+<!--<!--END_SECTION:waka-->
 
 #### Github Stats
 
 ![Amadou GitHub stats](https://github-readme-stats.vercel.app/api?username=amadou&show_icons=true&theme=radical)
 
-</details>
+</details>-->
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
