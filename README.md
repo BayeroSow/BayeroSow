@@ -10,8 +10,8 @@ I'm Amadou Sow a Full Stack Developer. As someone who is more passionate for lea
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Xcode.
 - 📫 How to reach me: sowa5925@gmail.com.
-- 😄 Pronouns: CoderOne, Bayero, Amadou.
-- ⚡ Fun fact: I play football and go to the GYM very often.
+- 😄 Pronouns: CoderOne, Sow, Amadou.
+- ⚡ Fun fact: I play soccer and go to the GYM very often.
 
 #### Top Technologies
 
@@ -66,7 +66,7 @@ I'm Amadou Sow a Full Stack Developer. As someone who is more passionate for lea
 Programmer specialized in web development using muiltiple tools, frameworks, libraries in full stack. I pay a lot of attention to detail to genereate best products
 
 #### Knowledge of:
-Git, GitHub, VsCode, PyCharm, HTML5, CSS3, JavaScript, MySQL, Object-Oriented Programming, data structures and algorithms 
+Git, GitHub, VsCode, PyCharm, HTML5, CSS3, JavaScript, Python, MySQL, Object-Oriented Programming, data structures and algorithms 
 
 #### Coding Stats
 
