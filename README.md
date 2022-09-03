@@ -1,6 +1,6 @@
 ## 1. Hi I'm Amadou <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Amadou Sow a Full Stack Developer. As someone who is more passionate for learning more about tech and life. I Spend most of time coding outstanding projects or learning a new programing language.
+I'm Amadou Sow a Full Stack Web Developer. As someone who is more passionate for learning more about tech and life. I Spend most of time coding outstanding projects or learning a new programing language.
 
 :mailbox: Reach me out!
 
