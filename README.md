@@ -66,7 +66,8 @@ I'm Amadou Sow a Full Stack Web Developer. As someone who is more passionate for
 Programmer specialized in web development using muiltiple tools, frameworks, libraries in backend. I pay a lot of attention to detail to genereate best products
 
 #### Knowledge of:
-Git, GitHub, VsCode, PyCharm, HTML5, CSS3, JavaScript, Python, MySQL, Object-Oriented Programming, data structures and algorithms 
+Git, GitHub, VsCode, PyCharm, HTML5, CSS3, JavaScript, Python, PHP, C++  MySQL, Reactjs, Nodejs Django, Flask, Object-Oriented Programming, data structures and algorithms 
+
 
 #### Coding Stats
 
