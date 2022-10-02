@@ -1,4 +1,4 @@
-## 1. Hi I'm Amadou <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## 1. Hi I'm Amadou Sow <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Amadou Sow a Fullstack Web Developer. As someone who is more passionate for learning more about tech and life. I spend most of my time coding outstanding projects or learning a new programming language.
 
@@ -73,7 +73,7 @@ Git, GitHub, VsCode, PyCharm, HTML5, CSS3, JavaScript, Python, PHP, C++  MySQL, 
 
 <!--START_SECTION:waka-->
 ```text   
-From: 12 February, 2022 - To: 1 March, 2022
+From: 12 September, 2022 - To: 1 October, 2022
 
 Pyton        ████████████████████████████████████████░   95.00 %
 HTML5        ████████████████████████████████████████░   95.00 %
