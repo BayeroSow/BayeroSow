@@ -6,8 +6,8 @@ I'm Amadou Sow a Fullstack Web Developer. As someone who is more passionate for 
 
 [![Twitter Badge](https://img.shields.io/badge/-@Amadou-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/@Amadous95787957) [![Linkedin Badge](https://img.shields.io/badge/-Amadou-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadou-sow-b748aa18a/) [![Mail Badge](https://img.shields.io/badge/-@Amadou-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sowa5925) [![Mail Badge](https://img.shields.io/badge/-Amadou-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sowa5925@gmail.com)
 
-- 🔭 I’m currently working on Faceme a facial recognition app
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🔭 I’m currently working on Faceme a facial recognition app.
+- :computer: Most used line of code `git commit -m "Initial Commit"`.
 - 🤔 I’m looking for help with Xcode.
 - 📫 How to reach me: sowa5925@gmail.com.
 - 😄 Pronouns: CoderOne, Sow, Amadou.
