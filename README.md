@@ -53,7 +53,7 @@ I'm Amadou Sow a Fullstack Web Developer. As someone who is more passionate for 
 
 ### Profile Visits
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Amadou.visitor-badge)
+<!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Amadou.visitor-badge)-->
 
 <details>
 <summary>
