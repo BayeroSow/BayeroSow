@@ -1,98 +1,114 @@
-## 1. Hi I'm Amadou <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hey, I'm Amadou Sow 👋
 
-I'm Amadou Sow a Fullstack Web Developer. As someone who is more passionate for learning more about tech and life. I spend most of my time coding outstanding projects or learning a new programming language.
+### Software Engineer | AI & Product Builder
 
-:mailbox: Reach me out!
+I'm a Software Engineering student at **CODE University of Applied Sciences in Berlin**, with professional experience in software development and building AI-powered products from scratch.
 
-[![Twitter Badge](https://img.shields.io/badge/-@Amadou-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/@Amadous95787957) [![Linkedin Badge](https://img.shields.io/badge/-Amadou-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadou-sow-b748aa18a/) [![Mail Badge](https://img.shields.io/badge/-@Amadou-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sowa5925) [![Mail Badge](https://img.shields.io/badge/-Amadou-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sowa5925@gmail.com)
+I enjoy working on challenging problems, building reliable systems, and turning ideas into products that people actually use.
 
-- 🔭 I’m currently working on Faceme a facial recognition app.
-- :computer: Most used line of code `git commit -m "Initial Commit"`.
-- 🤔 I’m looking for help with Xcode.
-- 📫 How to reach me: sowa5925@gmail.com.
-- 😄 Pronouns: CoderOne, Sow, Amadou.
-- ⚡ Fun fact: I play Football and go to the GYM very often.
+I've built two products from the ground up: **Scaleify, with 300+ registered builders**, and **Vincary, used by 12+ startup founders**.
 
-#### Top Technologies
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://amadouportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadou-sow-b748aa18a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sowa5925@gmail.com)
 
-<!-- TODO: Make technologies links takes you to repositories -->
+---
 
-[![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![HTML Badge](https://img.shields.io/badge/-html-3C873A?style=for-the-badge&labelColor=black&logo=html5&logoColor=3C873A)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-e535ab?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=e535ab)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![PHP Badge](https://img.shields.io/badge/-php-007acc?style=for-the-badge&labelColor=black&logo=php&logoColor=007acc)](#) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 🚀 What I've Built
 
+### [Scaleify](https://scaleify-scaleify-570fb2c5.vercel.app)
+**AI-Powered Native iOS App Builder | 300+ Registered Builders**
 
-### Languages & Tools
+An AI-powered platform that lets people generate native iOS applications from simple text descriptions, without needing a Mac, Xcode, or coding experience.
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+- Built the product from scratch, covering frontend, backend, and AI integration.
+- Developed native Swift/SwiftUI code generation and automated build workflows.
+- Implemented error detection and AI-assisted correction to improve generated code reliability.
+- Grew the platform to **300+ registered builders**.
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmltutorial]
+**Technologies:** JavaScript, Node.js, Firebase, SwiftUI, GitHub Actions, Vercel, LLM APIs
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascripttutorial]
+### [Vincary](https://vincary.com)
+**Customer Discovery & Growth Platform | 12+ Founder Users**
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscodetutorial]
+A platform helping startup founders identify and reach their next best customers.
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+- Interviewed around 15 startup founders to understand customer acquisition challenges.
+- Built the product based on real customer insights and feedback.
+- Attracted **12+ startup founder users**.
+- Worked across product development, research, and early-stage growth.
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+---
 
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+## 💼 Professional Experience
 
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+**Software Engineer — h3ko GmbH**
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+Developed B2B web applications and contributed to healthcare software projects, working with C#, C++, Python, Blazor (ASP.NET), HTML, and CSS.
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+**Backend Software Engineer — Klavant GmbH**
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+Contributed to software development for an AI-assisted cardiac surgery system, including backend development and technical troubleshooting.
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+**Freelance Software Developer & Business Consultant**
 
- 
-<br />
-<br />
+Worked with startup founders and businesses internationally, delivering web applications, business plans, pitch decks, and market research.
 
-### Profile Visits
+---
 
-<!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Amadou.visitor-badge)-->
+## 🛠️ Technical Skills
 
-<details>
-<summary>
-  More stuff about me
-</summary>
+**Programming Languages**
 
-<br >
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
-Programmer specialized in web development using muiltiple tools, frameworks, libraries in backend. I pay a lot of attention to detail to genereate best products
+**Frameworks & Development**
 
-#### Knowledge of:
-Git, GitHub, VsCode, PyCharm, HTML5, CSS3, JavaScript, Python, PHP, C++  MySQL, Reactjs, Nodejs Django, Flask, Object-Oriented Programming, data structures and algorithms 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**Cloud, Databases & DevOps**
 
-#### Coding Stats
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-<!--START_SECTION:waka-->
-```text   
-From: 12 September, 2022 - To: 1 October, 2022
+**AI & Automation**
 
-Pyton        ████████████████████████████████████████░   95.00 %
-HTML5        ████████████████████████████████████████░   95.00 %
-CSS          ████████████████████████████████████████░   95.00 %
-JavaScript   ███████████████████████████████████░░░░░░   85.00 %
-PHP          ████████████████████████░░░░░░░░░░░░░░░░░   65.00 %
-C++          ████████████████████████░░░░░░░░░░░░░░░░░   65.00 %
+- LLM APIs and AI integration
+- AI-powered software development
+- Automated code generation and validation
+- Agent workflows and error-recovery automation
+- AI-assisted product and workflow automation
 
-```
+---
 
-<!--END_SECTION:waka-->
+## 🎓 Education
 
-<!--#### Github Stats-->
+**B.Sc. Software Engineering**  
+CODE University of Applied Sciences, Berlin
 
-<!--![Amadou GitHub stats](https://github-readme-stats.vercel.app/api?username=amadou&show_icons=true&theme=radical)-->
+---
 
-</details>
+## 🤝 Let's Connect
 
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+I'm interested in building ambitious products, solving hard engineering problems, and collaborating with people working on meaningful technology.
 
+**Portfolio:** [amadouportfolio.com](https://amadouportfolio.com)  
+**LinkedIn:** [Amadou Sow](https://www.linkedin.com/in/amadou-sow-b748aa18a/)  
+**Email:** [sowa5925@gmail.com](mailto:sowa5925@gmail.com)
