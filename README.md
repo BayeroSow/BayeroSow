@@ -1,6 +1,6 @@
 # Hey, I'm Amadou Sow 👋
 
-### Software Engineer | AI & Product Builder
+### Software Engineer | AI Builder
 
 I'm a Software Engineering student at **CODE University of Applied Sciences in Berlin**, with professional experience in software development and building AI-powered products from scratch.
 
@@ -17,7 +17,7 @@ I've built two products from the ground up: **Scaleify, with 300+ registered bui
 ## 🚀 What I've Built
 
 ### [Scaleify](https://scaleify-scaleify-570fb2c5.vercel.app)
-**AI-Powered Native iOS App Builder | 300+ Registered Builders**
+**AI Native iOS App Builder | 300+ Registered Builders**
 
 An AI-powered platform that lets people generate native iOS applications from simple text descriptions, without needing a Mac, Xcode, or coding experience.
 
